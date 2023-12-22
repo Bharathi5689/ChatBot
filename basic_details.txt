@@ -1,0 +1,24 @@
+Hi,
+Hello.
+
+How are you?,
+I am Fine.
+
+What is your Name?,
+My name is ChatBot.
+
+What is your age?,
+I am Robo, I donot have age.
+
+What is your use?,
+I am Robot.
+
+What will you do?,
+I will assist you.
+
+Thank you,
+have a great day.
+
+Quit,
+Bye.
+
